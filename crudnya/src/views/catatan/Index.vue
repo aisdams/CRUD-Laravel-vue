@@ -8,7 +8,7 @@
                         <hr>
                         <router-link :to="{name: 'catatan.create'}" class="btn btn-md btn-success">TAMBAH Catatan</router-link>
 
-                        <table class="table table-bordered border-dark mt-4 text-center">
+                        <table class="table border-dark mt-4 text-center">
                             <thead class="table-info">
                                 <tr>
                                     <th scope="col">Location</th>
